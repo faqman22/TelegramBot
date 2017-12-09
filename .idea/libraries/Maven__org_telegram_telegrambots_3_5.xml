@@ -3,11 +3,7 @@
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/3.5/telegrambots-3.5.jar!/" />
     </CLASSES>
-    <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/3.5/telegrambots-3.5-javadoc.jar!/" />
-    </JAVADOC>
-    <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/3.5/telegrambots-3.5-sources.jar!/" />
-    </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>
